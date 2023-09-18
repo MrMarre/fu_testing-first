@@ -1,2 +1,3 @@
 # fu_testing-first
-HTML and CSS
+
+HTML, CSS and JavaScript
